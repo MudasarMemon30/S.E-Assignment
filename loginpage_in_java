@@ -15,7 +15,6 @@ public static void main(String[] args) {
     password = input.next();
 
     //users check = new users(username, password);
-
     if(username.equals(username) && password.equals(password)) 
         System.out.println("You are logged in");
 }
