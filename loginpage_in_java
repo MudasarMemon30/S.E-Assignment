@@ -9,6 +9,7 @@ public static void main(String[] args) {
     String password;
 
     System.out.println("Log in:");
+    
     System.out.println("username: ");
     username = input.next();
 
